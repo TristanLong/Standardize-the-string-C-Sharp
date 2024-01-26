@@ -1,0 +1,7 @@
+D:\Course\KTeam_SQL_C#_Winform\C#\Basic_Advanced\chuanHoaChuoi\chuanHoaChuoi\bin\Debug\chuanHoaChuoi.exe.config
+D:\Course\KTeam_SQL_C#_Winform\C#\Basic_Advanced\chuanHoaChuoi\chuanHoaChuoi\bin\Debug\chuanHoaChuoi.exe
+D:\Course\KTeam_SQL_C#_Winform\C#\Basic_Advanced\chuanHoaChuoi\chuanHoaChuoi\bin\Debug\chuanHoaChuoi.pdb
+D:\Course\KTeam_SQL_C#_Winform\C#\Basic_Advanced\chuanHoaChuoi\chuanHoaChuoi\obj\Debug\chuanHoaChuoi.csproj.AssemblyReference.cache
+D:\Course\KTeam_SQL_C#_Winform\C#\Basic_Advanced\chuanHoaChuoi\chuanHoaChuoi\obj\Debug\chuanHoaChuoi.csproj.CoreCompileInputs.cache
+D:\Course\KTeam_SQL_C#_Winform\C#\Basic_Advanced\chuanHoaChuoi\chuanHoaChuoi\obj\Debug\chuanHoaChuoi.exe
+D:\Course\KTeam_SQL_C#_Winform\C#\Basic_Advanced\chuanHoaChuoi\chuanHoaChuoi\obj\Debug\chuanHoaChuoi.pdb
